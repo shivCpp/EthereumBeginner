@@ -4,7 +4,7 @@ It is simple smart contract ( MY TOKEN ) for minting and burning tokens on the E
 
 # Description:
 
-MyToken is a simple Solidity-implemented token contract that resembles an ERC20. It enables the tracking of the total supply and balances of individual addresses, as well as the minting of new tokens and the burning of old ones. The purpose of this contract is to serve as a teaching tool for fundamental token management and smart contract creation.
+MyToken is a simple ERC20-like token contract implemented by Solidity. It allows tracking the total supply and balances of individual addresses, as well as minting new tokens and burning old ones. This contract is intended to be a learning tool for basic token management and smart contract creation..
 
 # Characteristics:
 
